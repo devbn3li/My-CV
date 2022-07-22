@@ -95,6 +95,7 @@ body {
 
 img {
     float: right;
+    border-radius: 50%;
 }
 
 .icon {
