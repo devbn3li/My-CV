@@ -60,6 +60,7 @@ body {
     padding-top: 6px;
     padding-bottom: 6px;
     background-color: #eeeeee;
+    line-height: 1.5;
 }
 
 .subheading {
@@ -79,9 +80,12 @@ body {
     font-weight: bolder;
 }
 
+.ul {
+    line-height: 1.6;
+}
 .intro {
     background-color: #2F5A78;
-    color: white;
+    color: #ffffff;
 }
 
 .subheading {
@@ -100,6 +104,9 @@ body {
     font-weight: bold;
 }
 
+.explist {
+    line-height: 1.6;
+}
 .skills ul li {
     display: flex;
     justify-content: space-between;
@@ -135,3 +142,11 @@ img {
     float: left;
     color: #2F5A78;
 }
+
+.footer {
+    background-color: #2F5A78;
+    color: #ffffff;
+    padding: 13px 0px;
+    text-align: center;
+    font-size: 18px;
+}    
